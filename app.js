@@ -5,7 +5,7 @@ import { createStackNavigator } from '@react-navigation/stack'; // Importa o sta
 
 const Stack = createStackNavigator();
 
-// Tela inicial (Login)
+// Tela inicial (Loginn)
 function LoginScreen({ navigation }) {
   return (
     <View style={styles.container}>
