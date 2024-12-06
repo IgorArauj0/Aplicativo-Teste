@@ -20,7 +20,7 @@ function LoginScreen({ navigation }) {
 
       <TouchableOpacity
         style={styles.button}
-        onPress={() => navigation.navigate('Home')} // Navega para a tela Home
+        onPress={() => navigation.navigate('Home')} // Navega para a tela Homee
       >
         <Text style={styles.buttonText}>Começar</Text>
       </TouchableOpacity>
